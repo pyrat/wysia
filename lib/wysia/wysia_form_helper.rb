@@ -16,10 +16,6 @@ module Wysia
           <a class="btn#{size}" data-wysihtml5-command="italic"><i class="icon-italic"></i></a>
         </div>
 
-        <div class="btn-group">
-          <a class="btn#{size}" data-wysihtml5-command-value="h1" data-wysihtml5-command="formatBlock"><b>h1</b></a>
-          <a class="btn#{size}" data-wysihtml5-command-value="h2" data-wysihtml5-command="formatBlock"><b>h2</b></a>
-        </div>
 
         <div class="btn-group">
           <a class="btn#{size}" data-wysihtml5-command="insertOrderedList"><i class="icon-list-ol"></i></a>
